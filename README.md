@@ -13,6 +13,7 @@ We feel that there is a gap in service provision for flights with long layover t
 This is really a prototype to showcase the idea of the application, and there are some stretch goals that would improve the functionailty and user-interface. Future improvements include a functioning log-in page, and the ability to save the planned activities to a list and potentially link to the external services so that clients could book these activities prior to their trip.
 
 ## License
+MIT
 
 ## Credits
  * Claire Doswell
