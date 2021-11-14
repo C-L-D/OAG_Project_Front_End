@@ -1,0 +1,9 @@
+body {
+  background-color: lightgrey;
+  height: 100%;
+  color: black;
+}
+
+.circle {
+  border-radius: 50%;
+}
